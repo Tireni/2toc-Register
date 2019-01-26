@@ -1,3 +1,4 @@
+<!Doctype html>
 <html>
 <head>
 <title>2toc Reg</title>
